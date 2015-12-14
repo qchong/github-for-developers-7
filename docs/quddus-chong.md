@@ -1,4 +1,5 @@
-+ My name: Quddus
-+ Where I'm from: Malaysia
-+ My favorite food: Crawfish
-+ My hobby: Reading
++ **Name**: Quddus
++ **Where I'm from**: Malaysia
++ **Favorite food**: Crawfish
++ **Hobby**: Reading
++ **Favorite color**: Blue
